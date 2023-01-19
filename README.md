@@ -1,3 +1,7 @@
+################################# COMANDOS IMPORTANTES ######################################
+
+pwd (present working directory) - O Git te retorna em qual diretório você está
+
 # Como usar o Git e Github na prática
  
 ## Início do vídeo
